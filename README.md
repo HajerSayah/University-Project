@@ -1,8 +1,3 @@
-# Hajer Sayah
-AI Student | Umm Al-Qura University  
-GPA: 3.93/4.0  
-Mecca, Saudi Arabia
-
 ## Academic Projects
 Smart Team Task Allocation
 Task distribution based on skills, workload, and fatigue prediction. Achieved 100% accuracy using Random Forest and Logistic Regression.
